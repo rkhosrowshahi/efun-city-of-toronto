@@ -1,0 +1,4 @@
+selenium==4.15.2
+Datetime==5.3 
+webdriver-manager==4.0.1
+pytz==2023.3.post1
